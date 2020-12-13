@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelpDesk Application</string>
+    <string name="app_login_title">Help Desk</string>
+    <string name="str_home">Trang chủ</string>
+    <string name="str_info">Yêu cầu của bạn</string>
+    <string name="str_report">Gửi yêu cầu</string>
+    <string name="str_id">Mã yêu cầu:</string>
+    <string name="str_error">Có lỗi xãy ra</string>
+    <string name="str_ok">Đồng ý</string>
+    <string name="str_success">Thành công</string>
+    <string name="str_faq">Câu hỏi thường gặp</string>
+    <string name="login_buton">Đăng nhập</string>
+    <string name="home_title1">Chất lượng trên giá thành</string>
+    <string name="home_description1">Chất lượng bảo trì bền vững trên cả chi phí bạn bỏ ra.</string>
+    <string name="home_title2">Nhanh chóng. Tiện lợi</string>
+    <string name="home_description2">Hãy cho chúng tôi vinh dự để được phụ vụ bạn.</string>
+    <string name="home_title3">Giao tiếp với tương lai</string>
+    <string name="home_description3">Mang đến câu trả lời với tất cả các câu hỏi của bạn.</string>
+    <string name="ticket_row_title">Tiêu đề:</string>
+    <string name="submit_title">Tiêu đề:</string>
+    <string name="submit_place">Nơi:</string>
+    <string name="submit_yourproblem">Vấn đề của bạn:</string>
+    <string name="submit_choose_a_file">Chọn một tập tin</string>
+    <string name="submit_send">Gửi</string>
+    <string name="ticket_row_status">Trạng thái:</string>
+    <string name="ticket_comment_toast">Vui lòng nhập nội dung!</string>
+    <string name="loading">Chờ một chút...</string>
+    <string name="str_start">Bắt đầu:</string>
+    <string name="str_end">Kết thúc:</string>
+    <string name="str_assigned">Chỉ định:</string>
+    <string name="str_basic">Thông tin cơ bản</string>
+    <string name="str_nhap">Nhập ở đây</string>
+    <string name="str_comment">Bình luận</string>
+    <string name="str_close">Đóng</string>
+    <string name="str_warning">Bạn không thể hoàn tác!</string>
+    <string name="account">Kỹ thuật viên</string>
+    <string name="assign">Chỉ định</string>
+    <string name="assignfor">Chỉ định cho</string>
+    <string name="acc_fullname">Họ tên</string>
+    <string name="acc_email">Email</string>
+    <string name="acc_username">Tài khoản</string>
+    <string name="acc_pass">Mật khẩu</string>
+    <string name="acc_confirm">Xác nhận mật khẩu</string>
+    <string name="row_id">ID:</string>
+    <string name="row_hoten">Họ tên</string>
+    <string name="row_username">Tài khoản:</string>
+    <string name="row_email">Email:</string>
+    <string name="addACC">Thêm kỹ thuật viên</string>
+    <string name="add">Thêm</string>
+    <string name="toast1">Vui lòng nhập tất cả các trường!</string>
+    <string name="toast2">Mật khẩu xác nhận chưa chính xác!</string>
+
+</resources>
